@@ -1,7 +1,7 @@
-Package: com.rheard.reveal-loader
-Conflicts: com.rheard.rhrevealloader
-Replaces: com.rheard.rhrevealloader
-Name: Reveal Loader
+Package: net.svedm.reveal2-loader
+Conflicts: net.svedm.reveal2-loader
+Replaces: net.svedm.reveal2-loader
+Name: Reveal2 Loader
 Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader, applist
