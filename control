@@ -1,7 +1,7 @@
-Package: net.svedm.reveal2-loader
-Conflicts: net.svedm.reveal2-loader
-Replaces: net.svedm.reveal2-loader
-Name: Reveal2 Loader
+Package: net.svedm.reveal-loader-v8
+Conflicts: net.svedm.reveal-loader-v8
+Replaces: net.svedm.reveal-loader-v8
+Name: Reveal Loader For V8
 Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader, applist
